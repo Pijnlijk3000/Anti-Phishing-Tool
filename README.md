@@ -6,6 +6,7 @@ HOW TO USE THE PROJECT
 1. Download Python from the official website: https://www.python.org/downloads/
 2. Download a code editor (e.g. Visual Studio Code, PyCharm, etc.)
 3. Open the project in the code editor
+NOW OPEN THE DATA FOLDER AND DOWNLOAD THE DATASET FROM KAGGLE. THE LINK IS IN THE README FILE IN THE DATA FOLDER. THE DATASET IS CALLED "phishing_email.csv" AND IS 106.6MB IN SIZE. TO USE THE DATASET, DOWNLOAD IT AND PLACE IT IN THE "data" DIRECTORY OF THIS REPOSITORY. SEE THE README FILE IN THE DATA FOLDER FOR MORE INFORMATION.
 4. Open a terminal in the code editor
 5. Install the libraries in the requirements.txt file by running the command: pip install -r requirements.txt OR py -m pip install -r requirements.txt depending on your Python installation 
 6. Run the command: python phishingdetector.py
@@ -30,6 +31,7 @@ INSTALLATIE VAN HET PROJECT
 1. Download Python van de officiële website: https://www.python.org/downloads/
 2. Download een code-editor (bijv. Visual Studio Code, PyCharm, etc.)
 3. Open het project in de code-editor
+OPEN DE DATA MAP EN DOWNLOAD DE DATASET VAN KAGGLE. DE LINK IS IN DE README FILE IN DE DATA MAP. DE DATASET HEET "phishing_email.csv" EN IS 106.6MB GROOT. OM DE DATASET TE GEBRUIKEN, DOWNLOAD JE DEZE EN PLAATS JE DEZE IN DE "data" DIRECTORY VAN DEZE REPOSITORY. ZIE DE README FILE IN DE DATA MAP VOOR MEER INFORMATIE.
 4. Open een terminal in de code-editor
 5. Installeer de benodigde python libraries in het bestand requirements.txt door het commando uit te voeren: pip install -r requirements.txt OF py -m pip install -r requirements.txt, afhankelijk van de Python-installatie
 6. Voer het commando uit: python phishingdetector.py
