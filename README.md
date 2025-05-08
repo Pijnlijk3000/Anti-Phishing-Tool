@@ -1,5 +1,7 @@
 English
 
+First of all, the model is already done, so if you want to use the model, you can simply run the phishingdetector.py file. You don't have to follow these steps unless you want to train the model using a different sample size.
+
 This project is an email scanner that scans the body (the text) of an email. Based on the content of the email, the scanner will determine if the email is spam or not.
 
 HOW TO USE THE PROJECT
@@ -24,6 +26,8 @@ def load_and_preprocess_data(self, data_path, sample_size=10000):
 ```
 
 Nederlands
+
+Kleine disclaimer: Het model is al klaar, dus als je het model wilt gebruiken, kun je gewoon het phishingdetector.py-bestand uitvoeren. Je hoeft deze stappen niet te volgen, tenzij je het model wilt trainen met een andere samplegrootte.
 
 Dit project is een e-mailscanner die de inhoud (de tekst) van een e-mail scant. Op basis van de inhoud van de e-mail bepaalt de scanner of de e-mail spam is of niet.
 
